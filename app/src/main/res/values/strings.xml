@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="profile_pic">Picture of Daniel Buyinza</string>
+    <string name="name">Daniel Buyinza</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Uganda</string>
+    <string name="email">Email: danieljbuyinza@gmail.com</string>
+    <string name="phone_number">Phone Number: +256 703824519</string>
+    <string name="slack_username">Slack Username: @Daniel Buyinza</string>
+</resources>
